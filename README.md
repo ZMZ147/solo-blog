@@ -1,4 +1,4 @@
-<p align="center"><img alt="GeekTom's Blog" src="https://static.b3log.org/images/brand/solo-32.png"></p><h2 align="center">
+<p align="center"><img alt="GeekTom's Blog" src="https://www.easyicon.net/api/resizeApi.php?id=534146&size=32"></p><h2 align="center">
 GeekTom's Blog
 </h2>
 
@@ -11,6 +11,8 @@ GeekTom's Blog
 ### 最新
 
 * [我在 GitHub 上的开源项目](http://blog.zhqy.xyz/my-github-repos)
+* [## Java中的equals()与==](http://blog.zhqy.xyz/articles/2019/10/20/1571583667114.html)
+* [Python中的闭包以及装饰器的使用](http://blog.zhqy.xyz/articles/2019/10/20/1571505710722.html)
 
 
 
