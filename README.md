@@ -10,7 +10,6 @@ GeekTom's Blog
 
 ### 最新
 
-* [我在 GitHub 上的开源项目](http://blog.zhqy.xyz/my-github-repos)
 * [JVM - 初识java虚拟机（JVM）　　　　](http://blog.zhqy.xyz/articles/2019/10/22/1571755164215.html)
 * [JAVA - java的平台无关性 [转载]](http://blog.zhqy.xyz/articles/2019/10/22/1571747472258.html)
 * [Java中的equals()与==](http://blog.zhqy.xyz/articles/2019/10/20/1571583667114.html)
