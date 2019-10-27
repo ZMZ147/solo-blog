@@ -10,10 +10,10 @@ GeekTom's Blog
 
 ### 最新
 
-* [JAVA - 关于三元运算符自动拆箱导致NPE的探索 [原创]](http://blog.zhqy.xyz/articles/2019/10/24/1571853320002.html)
-* [JVM - 初识java虚拟机（JVM）　　　　](http://blog.zhqy.xyz/articles/2019/10/22/1571755164215.html)
-* [JAVA - java的平台无关性 [转载]](http://blog.zhqy.xyz/articles/2019/10/22/1571747472258.html)
-* [Java中的equals()与==](http://blog.zhqy.xyz/articles/2019/10/20/1571583667114.html)
+* [JAVA - 关于三元运算符自动拆箱导致NPE的探索 [原创]](https://blog.zhqy.xyz/articles/2019/10/24/1571853320002.html)
+* [JVM - 初识java虚拟机（JVM）　　　　](https://blog.zhqy.xyz/articles/2019/10/22/1571755164215.html)
+* [JAVA - java的平台无关性 [转载]](https://blog.zhqy.xyz/articles/2019/10/22/1571747472258.html)
+* [Java中的equals()与==](https://blog.zhqy.xyz/articles/2019/10/20/1571583667114.html)
 
 
 
