@@ -10,6 +10,8 @@ GeekTom's Blog
 
 ### 最新
 
+* [为什么java中只有值传递](http://blog.zhqy.xyz/articles/2019/10/28/1572216852597.html)
+* [Linux中mysql的安装以及不能用密码登录的解决方法](http://blog.zhqy.xyz/articles/2019/10/28/1572211231161.html)
 * [JAVA - 关于三元运算符自动拆箱导致NPE的探索 [原创]](http://blog.zhqy.xyz/articles/2019/10/24/1571853320002.html)
 * [JVM - 初识java虚拟机（JVM）　　　　](http://blog.zhqy.xyz/articles/2019/10/22/1571755164215.html)
 * [JAVA - java的平台无关性 [转载]](http://blog.zhqy.xyz/articles/2019/10/22/1571747472258.html)
