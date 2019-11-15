@@ -10,6 +10,7 @@ GeekTom's Blog
 
 ### 最新
 
+* [Linux - 网络管理](http://blog.zhqy.xyz/articles/2019/11/13/1573656383363.html)
 * [Linux - 用户和权限](http://blog.zhqy.xyz/articles/2019/11/11/1573485316708.html)
 * [Linux - vim的常用命令](http://blog.zhqy.xyz/articles/2019/11/06/1573047455182.html)
 * [Linux - 基本命令](http://blog.zhqy.xyz/articles/2019/11/06/1573017674174.html)
