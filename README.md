@@ -10,6 +10,9 @@ GeekTom's Blog
 
 ### 最新
 
+* [Linux - 内存和磁盘管理](http://blog.zhqy.xyz/articles/2019/11/16/1573916620079.html)
+* [Linux - 进程管理（二）](http://blog.zhqy.xyz/articles/2019/11/16/1573891707152.html)
+* [Linux - 进程管理（一）](http://blog.zhqy.xyz/articles/2019/11/15/1573828800331.html)
 * [Linux - 网络管理](http://blog.zhqy.xyz/articles/2019/11/13/1573656383363.html)
 * [Linux - 用户和权限](http://blog.zhqy.xyz/articles/2019/11/11/1573485316708.html)
 * [Linux - vim的常用命令](http://blog.zhqy.xyz/articles/2019/11/06/1573047455182.html)
