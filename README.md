@@ -2,7 +2,7 @@
 GeekTom's Blog
 </h2>
 
-<h4 align="center">Be profound  be funny  or  be quiet .</h4>
+<h4 align="center">Be profound  be funny  or  be quiet </h4>
 <p align="center"><a title="GeekTom's Blog" target="_blank" href="https://github.com/geektomya/solo-blog"><img src="https://img.shields.io/github/last-commit/geektomya/solo-blog.svg?style=flat-square&color=FF9900"></a>
 <a title="GitHub repo size in bytes" target="_blank" href="https://github.com/geektomya/solo-blog"><img src="https://img.shields.io/github/repo-size/geektomya/solo-blog.svg?style=flat-square"></a>
 <a title="Solo Version" target="_blank" href="https://github.com/b3log/solo/releases"><img src="https://img.shields.io/badge/solo-3.6.6-f1e05a.svg?style=flat-square&color=blueviolet"></a>
