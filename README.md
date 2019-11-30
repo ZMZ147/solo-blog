@@ -5,11 +5,12 @@ GeekTom's Blog
 <h4 align="center">Be profound  be funny  or  be quiet .</h4>
 <p align="center"><a title="GeekTom's Blog" target="_blank" href="https://github.com/geektomya/solo-blog"><img src="https://img.shields.io/github/last-commit/geektomya/solo-blog.svg?style=flat-square&color=FF9900"></a>
 <a title="GitHub repo size in bytes" target="_blank" href="https://github.com/geektomya/solo-blog"><img src="https://img.shields.io/github/repo-size/geektomya/solo-blog.svg?style=flat-square"></a>
-<a title="Solo Version" target="_blank" href="https://github.com/b3log/solo/releases"><img src="https://img.shields.io/badge/solo-3.6.7-f1e05a.svg?style=flat-square&color=blueviolet"></a>
-<a title="Hits" target="_blank" href="https://github.com/b3log/hits"><img src="https://hits.b3log.org/geektomya/solo-blog.svg"></a></p>
+<a title="Solo Version" target="_blank" href="https://github.com/88250/solo/releases"><img src="https://img.shields.io/badge/solo-3.6.7-f1e05a.svg?style=flat-square&color=blueviolet"></a>
+<a title="Hits" target="_blank" href="https://github.com/88250/hits"><img src="https://hits.b3log.org/geektomya/solo-blog.svg"></a></p>
 
 ### 最新
 
+* [01 - 两数之和](http://blog.zhqy.xyz/articles/2019/11/27/1574825419642.html)
 * [Linux - 内存和磁盘管理](http://blog.zhqy.xyz/articles/2019/11/16/1573916620079.html)
 * [Linux - 进程管理（二）](http://blog.zhqy.xyz/articles/2019/11/16/1573891707152.html)
 * [Linux - 进程管理（一）](http://blog.zhqy.xyz/articles/2019/11/15/1573828800331.html)
@@ -28,4 +29,4 @@ GeekTom's Blog
 
 ---
 
-本仓库通过 [Solo](https://github.com/b3log/solo) 自动进行同步更新 ❤️ 
+本仓库通过 [Solo](https://github.com/88250/solo) 自动进行同步更新 ❤️ 
