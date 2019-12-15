@@ -12,6 +12,7 @@ GeekTom | Blog
 
 * [Java面试常见问题整理](http://blog.zhqy.xyz/articles/2019/12/11/1576077816315.html)
 * [Nginx与泛域名实现内网外入](http://blog.zhqy.xyz/articles/2019/12/16/1576502421990.html)
+* [Servlet学习记录](<http://blog.zhqy.xyz/articles/2019/12/13/1576226249913.html>)
 * [记一次docker引起的服务器磁盘占满的问题](http://blog.zhqy.xyz/articles/2019/12/10/1575960493018.html)
 * [教你利用短URL替换solo博客的长URL！！！](http://blog.zhqy.xyz/articles/2019/12/06/1575644210365.html)
 * [03 - 无重复字符的最长子串](http://blog.zhqy.xyz/articles/2019/12/01/1575198610185.html)
