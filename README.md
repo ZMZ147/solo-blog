@@ -12,6 +12,7 @@ GeekTom | Blog
 
 * [Java面试常见问题整理](http://blog.zhqy.xyz/articles/2019/12/11/1576077816315.html)
 * [JVM - Java虚拟机结构](<http://blog.zhqy.xyz/articles/2019/12/12/1576085235290.html>)
+* [JVM - 走进方法区的前世今生](<http://blog.zhqy.xyz/articles/2019/12/18/1576664538449.html>)
 * [Nginx与泛域名实现内网外入](http://blog.zhqy.xyz/articles/2019/12/16/1576502421990.html)
 * [Servlet学习记录](<http://blog.zhqy.xyz/articles/2019/12/13/1576226249913.html>)
 * [记一次docker引起的服务器磁盘占满的问题](http://blog.zhqy.xyz/articles/2019/12/10/1575960493018.html)
