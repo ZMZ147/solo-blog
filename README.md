@@ -10,6 +10,8 @@ GeekTom | Blog
 
 ### 最新
 
+* [回文日 | 绕不开的回文数](<https://blog.zhqy.xyz/articles/2020/02/02/1580655282159.html>)
+
 * [MySQL实战 | 总结](<https://blog.zhqy.xyz/articles/2020/02/01/1580569514532.html>)
 
 * [Java面试常见问题整理](http://blog.zhqy.xyz/articles/2019/12/11/1576077816315.html)
