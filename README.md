@@ -2,6 +2,8 @@
 GeekTom | Blog
 </h2>
 
+
+
 <h4 align="center">Be profound  be funny  or  be quiet .</h4>
 <p align="center"><a title="GeekTom | Blog" target="_blank" href="https://github.com/geektomya/solo-blog"><img src="https://img.shields.io/github/last-commit/geektomya/solo-blog.svg?style=flat-square&color=FF9900"></a>
 <a title="GitHub repo size in bytes" target="_blank" href="https://github.com/geektomya/solo-blog"><img src="https://img.shields.io/github/repo-size/geektomya/solo-blog.svg?style=flat-square"></a>
@@ -9,6 +11,8 @@ GeekTom | Blog
 <a title="Hits" target="_blank" href="https://github.com/88250/hits"><img src="https://hits.b3log.org/geektomya/solo-blog.svg"></a></p>
 
 ### 最新
+
+* [CVTE | 20200203](<https://blog.zhqy.xyz/articles/2020/02/03/1580739885627.html>)
 
 * [回文日 | 绕不开的回文数](<https://blog.zhqy.xyz/articles/2020/02/02/1580655282159.html>)
 
