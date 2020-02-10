@@ -12,6 +12,8 @@ GeekTom | Blog
 
 ### 最新
 
+* [MYSQL | 最左匹配原则](https://blog.zhqy.xyz/articles/2020/02/03/1580738653597.html)
+
 * [CVTE | 20200203](<https://blog.zhqy.xyz/articles/2020/02/03/1580739885627.html>)
 
 * [回文日 | 绕不开的回文数](<https://blog.zhqy.xyz/articles/2020/02/02/1580655282159.html>)
